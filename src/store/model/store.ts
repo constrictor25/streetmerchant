@@ -16,6 +16,7 @@ export type Brand =
   | 'amd'
   | 'asrock'
   | 'asus'
+  | 'bt'
   | 'colorful'
   | 'corsair'
   | 'evga'
