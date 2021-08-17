@@ -31,7 +31,7 @@ export function sendDiscordMessage(link: Link, store: Store) {
     (async () => {
       try {
         const embed = new Discord.MessageEmbed()
-          .setTitle('_**Stock alert!**_')
+          .setTitle('_**Bourbon In Stock!!**_')
           .setDescription(
             '> provided by [streetmerchant](https://github.com/jef/streetmerchant) with :heart:'
           )
