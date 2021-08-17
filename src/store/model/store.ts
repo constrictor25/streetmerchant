@@ -16,6 +16,7 @@ export type Brand =
   | 'amd'
   | 'asrock'
   | 'asus'
+  | 'bt'
   | 'colorful'
   | 'corsair'
   | 'evga'
@@ -46,6 +47,7 @@ export type Series =
   | '3080'
   | '3080ti'
   | '3090'
+  | 'bt'
   | 'darkhero'
   | 'rx6800'
   | 'rx6700xt'
@@ -60,6 +62,7 @@ export type Series =
   | 'sf'
   | 'xboxsx'
   | 'xboxss';
+  | 'weller'
 
 export type Model =
   | 'test:model'
