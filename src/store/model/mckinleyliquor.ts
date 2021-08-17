@@ -52,7 +52,7 @@ export const McKinleyLiquor: Store = {
       brand: 'bt',
       model: 'blanton',
       series: 'test:series',
-      url: 'hhttps://mckinley.global-wineandspirits.com/spirits/Blanton-s-Single-Barrel-Bourbon-w2768546i4',
+      url: 'https://mckinley.global-wineandspirits.com/spirits/Blanton-s-Single-Barrel-Bourbon-w2768546i4',
     },
     {
       brand: 'bt',
