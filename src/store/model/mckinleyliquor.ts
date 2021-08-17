@@ -8,7 +8,7 @@ export const McKinleyLiquor: Store = {
       text: ['Add to Cart'],
     },
     maxPrice: {
-      container: 'span[class*="price-characteristic"]',
+      container: '#prodr > div:nth-child(1) > div > h2 > span',
     },
   },
   links: [
