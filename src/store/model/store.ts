@@ -88,6 +88,7 @@ export type Model =
   | 'aorus box'
   | 'articstorm'
   | 'battle-ax'
+  | 'bt750'
   | 'challenger'
   | 'challenger pro'
   | 'crosshair viii'
@@ -219,6 +220,7 @@ export type Model =
   | 'xlr8 revel epic x'
   | 'xlr8 uprising'
   | 'xtreme'
+  | 'wlwellersr1l'
   | 'qick';
 
 export type Link = {
