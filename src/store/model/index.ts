@@ -261,7 +261,7 @@ export const storeList = new Map([
   [Kabum.name, Kabum],
   [KomplettNO.name, KomplettNO],
   [LandmarkComputers.name, LandmarkComputers],
-  [McKinleyLiquors.name, McKinleyLiquors],
+  [McKinleyLiquor.name, McKinleyLiquor],
   [Mediamarkt.name, Mediamarkt],
   [MediamarktAt.name, MediamarktAt],
   [Medimax.name, Medimax],
