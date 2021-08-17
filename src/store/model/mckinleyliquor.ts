@@ -14,13 +14,13 @@ export const McKinleyLiquor: Store = {
   links: [
     {
       brand: 'bt',
-      model: 'W.L. Weller Special Reserve 1L ',
+      model: 'wlwellersr1l',
       series: 'bt:weller',
       url: 'https://mckinley.global-wineandspirits.com/spirits/WL-Weller-Special-Reserve-Bourbon-w8195275pp',
     },
     {
       brand: 'bt',
-      model: 'Buffalo Trace 750ml',
+      model: 'bt750',
       series: 'bt:bt',
       url: 'https://mckinley.global-wineandspirits.com/spirits/Buffalo-Trace-Kentucky-Straight-Bourbon-Whiskey-w780721238',
     },
