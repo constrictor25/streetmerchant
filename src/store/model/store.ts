@@ -86,6 +86,7 @@ export type Model =
   | 'aorus box'
   | 'articstorm'
   | 'battle-ax'
+  | 'blanton'
   | 'bt750'
   | 'challenger'
   | 'challenger pro'
@@ -97,8 +98,13 @@ export type Model =
   | 'dual mini oc'
   | 'eagle oc'
   | 'eagle'
+  | 'ecraigbarrel'
+  | 'ehtsingle'
+  | 'ehtsmall'
+  | 'ehtrye'
   | 'ekwb'
   | 'epic x'
+  | 'erare'
   | 'ex'
   | 'ex gamer'
   | 'ex oc'
@@ -219,6 +225,7 @@ export type Model =
   | 'xlr8 uprising'
   | 'xtreme'
   | 'wlwellersr1l'
+  | 'wlweller12'
   | 'qick';
 
 export type Link = {
